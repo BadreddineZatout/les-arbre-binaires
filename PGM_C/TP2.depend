@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1526747077 source:e:\tp2\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+
+1526743360 e:\tp2\tp2\fonction.h
+
+1527605158 source:e:\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+
+1527604214 e:\tp2\fonction.h
+
+1528717903 source:e:\zaatout badreddine & aitsaadi abdelmadjid g06\pgm_c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+
+1528717903 e:\zaatout badreddine & aitsaadi abdelmadjid g06\pgm_c\fonction.h
+
+1527608377 source:d:\zaatout badreddine & aitsaadi abdelmadjid g06\pgm_c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+
+1527607616 d:\zaatout badreddine & aitsaadi abdelmadjid g06\pgm_c\fonction.h
+
